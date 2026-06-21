@@ -334,7 +334,7 @@ screenshots/dashboard.png
 ## Year-wise Analytics
 
 ```markdown
-![Yearly Analytics](screenshots/Yearly Analytics.png)
+![Yearly Analytics](screenshots/yearly-analytics.png)
 ```
 
 ---
@@ -342,7 +342,7 @@ screenshots/dashboard.png
 ## Month-wise Analytics
 
 ```markdown
-![Monthly Analytics](screenshots/Monthly Analytics.png)
+![Monthly Analytics](screenshots/monthly-analytics.png)
 ```
 
 ---
@@ -350,7 +350,7 @@ screenshots/dashboard.png
 ## AI Business Assistant
 
 ```markdown
-![AI Chat](screenshots/AI Assistant.png)
+![AI Chat](screenshots/ai-assistant.png)
 ```
 
 ---
