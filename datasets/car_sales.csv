@@ -1,0 +1,101 @@
+Car Number,Brand,Model,Color,Year,Date of Purchase,Time of Purchase,Price (Rs),Mileage (km/l),Engine (cc),Fuel Type,Payment Mode,State,City,Customer Name,Contact Number,Email,Warranty Period (years)
+UP 65 8597,Alto,X5,White,2023,11-11-2023,15:43:52,5683065,16.95,2000,Petrol,Finance,Delhi,Dwarka,Yasti Lalla,8766728138,odhar@example.org,3
+KA 59 6819,Audi,800,Silver,2022,13-02-2022,19:22:06,2654945,11.48,1800,Petrol,Finance,Maharashtra,Pune,Eshana Setty,9.14E+11,hredhaanshanker@example.org,0
+UP 60 2144,Toyota,City,Blue,2026,20-03-2026,22:26:18,2557259,14.44,1000,Electric,Finance,Maharashtra,Nashik,Udant Brahmbhatt,7924023573,samakshwable@example.net,2
+UP 86 5092,Mercedes,Corolla,Red,2022,10-08-2022,05:48:37,822785,21.42,800,CNG,Finance,Uttar Pradesh,Varanasi,Wriddhish Sidhu,9.11E+11,vamakshiparmar@example.org,5
+UP 62 8145,Mercedes,Corolla,Grey,2023,26-03-2023,02:27:38,12756205,14.02,1500,Electric,Card,Maharashtra,Mumbai,Madhavi Wason,7781137022,sulejonathan@example.net,1
+DL 19 8631,Audi,X5,White,2024,24-10-2024,21:03:45,5755789,19.85,3000,Petrol,Online,Maharashtra,Nagpur,Pushti Mittal,9.13E+11,balakrishnanvasudha@example.net,1
+KA 56 6860,Mercedes,Corolla,White,2026,14-01-2026,09:24:29,1215353,21.49,1000,CNG,Finance,Maharashtra,Nagpur,Tanish Patil,1108082427,kundamohammed@example.net,3
+DL 71 1326,Hyundai,X5,Blue,2024,04-05-2024,06:24:20,8557793,22.45,800,Petrol,Cash,Uttar Pradesh,Lucknow,Upkaar Parmer,9.19E+11,max58@example.org,1
+DL 58 4959,Audi,X5,White,2025,20-03-2025,17:27:01,2912010,20.42,800,Diesel,Card,Maharashtra,Nagpur,Rajata Misra,5133235526,ikshita99@example.com,3
+UP 95 7817,Toyota,X5,Black,2025,09-02-2025,14:26:32,14992697,14.15,1800,CNG,Finance,Delhi,Dwarka,Bishakha Bajaj,8985090373,tkashyap@example.com,1
+UP 89 2700,Audi,City,Silver,2024,28-10-2024,22:18:43,3658258,24.72,2000,Electric,Card,Karnataka,Mangalore,Chandani Kade,2237919725,theodorebalay@example.com,5
+MH 53 5547,BMW,i20,Silver,2026,19-03-2026,22:16:26,4978750,16.45,1000,Electric,Online,Delhi,Dwarka,Alka Bajwa,9.15E+11,sekhongirish@example.com,1
+DL 92 2232,Mercedes,City,Black,2023,28-12-2023,15:42:25,8507958,23.01,1000,CNG,Online,Uttar Pradesh,Kanpur,Mohini Lalla,2263457747,deepa15@example.net,0
+MH 86 9677,BMW,C-Class,Black,2024,27-03-2024,00:10:33,8447918,10.07,3000,Electric,Card,Delhi,Rohini,Udant Shanker,7952547991,oagarwal@example.com,1
+KA 70 9551,Suzuki,Swift,White,2023,17-11-2023,13:07:59,14204624,20.47,1500,CNG,Online,Uttar Pradesh,Kanpur,Xalak Singh,2535230528,singhradhika@example.net,0
+MH 60 8319,Suzuki,i20,Grey,2025,20-05-2025,19:46:50,1479410,10.89,1800,Diesel,Online,Delhi,Saket,Yashasvi Konda,4579027298,dalajakamdar@example.org,5
+DL 97 4038,Audi,800,Green,2026,14-01-2026,02:25:47,10443045,16.46,1200,Petrol,Cash,Uttar Pradesh,Noida,Radhika Yogi,8420374112,hemangini66@example.com,0
+DL 31 1652,Honda,C-Class,Silver,2024,21-03-2024,22:02:27,13162714,13.39,2000,Electric,Finance,Maharashtra,Nagpur,Anusha Sathe,1656917328,leela35@example.net,1
+DL 52 6299,Mercedes,A4,Black,2024,08-02-2024,02:07:13,14445248,19.62,1000,CNG,Card,Maharashtra,Nagpur,Widisha Loyal,3347360443,madhavipillay@example.com,0
+MH 60 2072,Suzuki,Corolla,White,2025,11-09-2025,08:01:32,12442914,10.96,3000,Diesel,Cash,Maharashtra,Pune,Alka Chaudhari,6357901152,netramall@example.net,0
+UP 49 1399,Mercedes,Corolla,Grey,2023,10-08-2023,09:54:58,4640537,12.17,800,Diesel,Card,Karnataka,Mysore,Reyansh Lanka,6949843988,masonnayar@example.com,1
+MH 32 3197,Mercedes,C-Class,Grey,2025,18-02-2025,09:27:36,6076795,19.09,1500,Petrol,Finance,Uttar Pradesh,Varanasi,Meghana Kale,9.15E+11,ryanwarrior@example.org,3
+KA 30 6004,BMW,Swift,Silver,2025,14-11-2025,22:47:51,8489741,24.5,800,CNG,Cash,Karnataka,Bangalore,Kalpit Deol,50021252,dborra@example.net,2
+MH 43 9102,Hyundai,X5,White,2023,22-06-2023,10:54:27,11311650,19.22,3000,Petrol,Cash,Uttar Pradesh,Lucknow,Vritti Rao,565135811,warinder77@example.net,2
+MH 92 4899,Honda,City,Silver,2024,03-12-2024,16:17:17,9840407,11.79,1000,Petrol,Finance,Delhi,Rohini,Ryan Datta,3896898793,darshvarughese@example.com,5
+DL 92 9870,Audi,Swift,Grey,2021,10-05-2021,11:07:01,4135996,17.44,1200,CNG,Finance,Delhi,New Delhi,Oliver Kohli,9.14E+11,daniel82@example.net,0
+MH 16 8335,Audi,Swift,Black,2025,23-03-2025,21:43:38,12491098,21.89,1800,CNG,Online,Maharashtra,Mumbai,Devansh Ramesh,4035444831,pahalgera@example.net,2
+KA 59 6473,Hyundai,Corolla,Grey,2022,11-06-2022,14:14:59,13801521,24.76,3000,Diesel,Online,Karnataka,Bangalore,Parth Gour,1171220664,lipika60@example.org,3
+UP 79 3408,Audi,800,White,2025,24-06-2025,15:33:52,12366448,16.58,1500,Petrol,Card,Karnataka,Mangalore,Yatin D’Alia,9277801638,saumyaborra@example.com,0
+KA 38 9957,Mercedes,C-Class,Grey,2025,11-02-2025,15:59:42,14674846,10.15,800,Diesel,Finance,Maharashtra,Nashik,Faraj Banerjee,1412593217,hpuri@example.net,1
+MH 17 6338,Mercedes,X5,Blue,2021,04-09-2021,07:58:49,4535133,13.23,800,CNG,Online,Uttar Pradesh,Lucknow,Avni Kapur,9228266256,kamyaborde@example.com,0
+KA 64 1308,Alto,800,Green,2023,26-11-2023,13:22:31,8125955,10.69,1000,Petrol,Cash,Uttar Pradesh,Noida,Maya Rastogi,3823958398,yashawini30@example.org,2
+UP 29 2478,BMW,C-Class,White,2026,04-03-2026,21:49:08,11801790,21.43,1500,Electric,Cash,Karnataka,Mysore,Damini Bansal,3467265958,qarin53@example.org,2
+KA 95 4397,Suzuki,X5,Grey,2025,17-02-2025,22:28:21,1444206,19.42,1800,Diesel,Finance,Uttar Pradesh,Varanasi,Lakshit Menon,9.15E+11,okibe@example.org,2
+DL 53 2785,Mercedes,X5,Grey,2024,20-05-2024,22:43:28,10214742,14.06,2000,Petrol,Finance,Karnataka,Mangalore,Shaurya Balakrishnan,9.12E+11,devansha@example.org,0
+UP 10 8748,Audi,A4,Grey,2026,10-03-2026,11:31:12,822404,23.87,1000,Petrol,Online,Uttar Pradesh,Kanpur,Theodore Vyas,3400610337,kmani@example.com,3
+UP 55 2981,Suzuki,Corolla,Red,2025,30-11-2025,16:51:27,1398022,13.81,1500,CNG,Cash,Delhi,New Delhi,Kala Kalita,9.1E+11,sekhonbachittar@example.net,0
+DL 31 3965,Mercedes,A4,Blue,2024,05-06-2024,04:23:01,6894591,23.43,3000,Diesel,Online,Uttar Pradesh,Varanasi,Aadi Dugar,2550176214,waliadev@example.com,0
+UP 56 6655,Audi,C-Class,Black,2023,07-03-2023,01:58:12,14129818,24.75,3000,CNG,Card,Maharashtra,Pune,Indali Maharaj,9.19E+11,gbhandari@example.net,1
+UP 76 5617,Hyundai,i20,White,2025,10-03-2025,05:28:35,12175842,15.57,1200,Electric,Finance,Karnataka,Mangalore,Hemang Saxena,8265155954,nprakash@example.com,2
+UP 89 1436,Audi,800,Silver,2024,18-05-2024,07:39:45,4095249,19.88,3000,CNG,Cash,Maharashtra,Nagpur,Hemangini Grewal,9.13E+11,battaimaran@example.net,5
+MH 78 9624,Alto,Corolla,Grey,2024,25-08-2024,16:39:50,12922025,18.21,1500,Diesel,Finance,Maharashtra,Nagpur,Teerth Kata,3979225869,gopalbarad@example.org,3
+KA 45 4507,Mercedes,A4,White,2023,13-08-2023,03:48:28,12496426,13.36,1800,Diesel,Finance,Delhi,Saket,Samar Lanka,1241215252,ladchanchal@example.net,1
+DL 58 2703,Audi,Swift,Black,2021,12-08-2021,17:48:40,5667185,14.7,3000,Petrol,Finance,Uttar Pradesh,Kanpur,Kala Chanda,6268372165,panini09@example.org,1
+MH 17 9467,Suzuki,800,Red,2026,03-02-2026,07:38:12,3390071,11.26,1800,Electric,Cash,Uttar Pradesh,Varanasi,Onveer Tara,9.2E+11,mammenmichael@example.net,0
+DL 35 6053,Suzuki,Swift,Black,2022,21-07-2022,18:37:22,1803584,23.72,800,Electric,Online,Uttar Pradesh,Lucknow,Anjali Suri,9.11E+11,aahanakunda@example.org,5
+MH 83 7268,Honda,X5,Red,2024,11-05-2024,08:27:21,12659774,10.39,2000,Diesel,Finance,Maharashtra,Nagpur,Frederick Radhakrishnan,9.17E+11,brijeshsarin@example.net,1
+DL 89 7341,Honda,City,White,2024,24-10-2024,10:12:15,2176489,20.82,1000,Diesel,Card,Uttar Pradesh,Noida,Parth Garg,6995036651,arjun23@example.com,1
+MH 45 1362,Toyota,C-Class,Black,2023,06-10-2023,01:12:12,6222280,24.21,1000,Diesel,Finance,Maharashtra,Mumbai,Aditya Prabhu,1854570661,ishroff@example.net,3
+DL 42 7945,Hyundai,Corolla,Green,2024,04-04-2024,09:16:31,5173988,15.86,800,Petrol,Card,Uttar Pradesh,Noida,Hema Bhatia,9.15E+11,xanand@example.org,5
+MH 86 1343,Toyota,Swift,Blue,2024,04-03-2024,16:34:18,2049622,24.04,2000,CNG,Cash,Karnataka,Bangalore,Girish Mukhopadhyay,7136039485,vasabahadurjit@example.net,1
+UP 31 4112,Mercedes,i20,Red,2025,10-01-2025,13:51:30,5833653,18.56,3000,CNG,Cash,Karnataka,Hubli,Eshana Kaur,9.12E+11,urvikorpal@example.org,2
+KA 10 1286,Alto,800,Green,2024,21-08-2024,08:57:12,6652864,18.62,1000,Diesel,Finance,Karnataka,Mysore,Jack Prasad,6621330967,ethan27@example.com,5
+MH 31 4976,Alto,Swift,Red,2024,26-06-2024,13:47:35,13556360,21.53,800,Petrol,Online,Uttar Pradesh,Kanpur,Samarth Gill,9.2E+11,mnadig@example.net,1
+UP 36 3271,Hyundai,Corolla,Red,2023,28-05-2023,17:27:21,6633551,14.45,1500,Petrol,Card,Uttar Pradesh,Noida,Siya Natarajan,8571981557,adyadixit@example.org,2
+MH 52 4807,Mercedes,Swift,Red,2023,28-04-2023,13:07:42,8956032,11.11,1500,CNG,Cash,Karnataka,Mysore,Oliver Pillai,9.17E+11,yghose@example.org,5
+KA 41 6497,Hyundai,C-Class,Black,2024,18-11-2024,02:07:28,13397936,24.85,1500,Diesel,Finance,Delhi,New Delhi,Reyansh Kapoor,4680946374,jlanka@example.net,1
+KA 34 5644,Honda,C-Class,Blue,2023,05-01-2023,13:39:42,14226330,19.12,3000,Electric,Card,Uttar Pradesh,Kanpur,Upasna Srinivasan,4485296732,odika74@example.org,1
+UP 86 7385,Audi,X5,White,2023,02-01-2023,18:14:29,9073644,21.65,1800,CNG,Card,Karnataka,Mangalore,Jeet Borah,9060970936,biswasabeer@example.net,0
+DL 12 7904,Honda,Corolla,Black,2024,30-08-2024,17:51:28,13546736,19.71,1000,Electric,Cash,Karnataka,Hubli,Suhani Chand,9.15E+11,ekapad56@example.org,2
+UP 59 8865,BMW,800,Blue,2022,20-08-2022,19:58:17,12920812,18.61,800,Petrol,Finance,Uttar Pradesh,Kanpur,Yauvani Din,9.11E+11,bimalasethi@example.org,1
+DL 83 4296,Alto,800,Black,2023,19-08-2023,11:00:03,8923437,10.78,800,Petrol,Finance,Maharashtra,Pune,Veer Cheema,7208892363,palludarsh@example.org,2
+MH 26 3714,Mercedes,800,Blue,2024,02-12-2024,22:31:02,14204787,18.16,2000,Electric,Online,Uttar Pradesh,Kanpur,Neel Borra,2465032455,fsama@example.com,5
+DL 69 6911,Suzuki,Swift,Silver,2026,06-02-2026,11:05:10,7626924,20.1,1500,Electric,Card,Delhi,Rohini,Utkarsh Singh,7172533708,chanchal88@example.com,2
+DL 86 2397,Hyundai,Corolla,Silver,2025,25-02-2025,04:14:38,14416946,16.28,3000,CNG,Finance,Karnataka,Mangalore,Ekaja Pandya,8520809108,ekani17@example.org,1
+MH 64 8384,BMW,A4,Green,2025,14-06-2025,01:45:55,12990519,21.36,2000,Petrol,Cash,Maharashtra,Nagpur,Lakshit Doctor,3496121706,lmitra@example.org,0
+UP 95 3967,Honda,800,Red,2022,21-10-2022,01:23:11,3665830,16.99,3000,CNG,Online,Maharashtra,Mumbai,Vedika Menon,9.18E+11,ekani60@example.org,1
+UP 72 9534,Suzuki,A4,Green,2023,21-03-2023,08:59:36,14646724,21.72,3000,CNG,Card,Karnataka,Mangalore,Tripti Venkataraman,225910004,aishani37@example.com,3
+DL 37 5740,Suzuki,X5,Silver,2022,21-01-2022,02:57:20,8249567,18.96,1200,Diesel,Card,Karnataka,Hubli,Frado Mistry,9869165045,boasechampak@example.com,2
+DL 25 6716,Audi,Corolla,Black,2025,09-05-2025,05:22:58,4772285,12.48,2000,Diesel,Finance,Uttar Pradesh,Noida,Lakshit Khanna,5951269492,lnaidu@example.org,3
+UP 49 4942,Suzuki,A4,Black,2023,03-09-2023,21:29:46,6664267,21.69,1500,Petrol,Card,Maharashtra,Nashik,Deepa Dixit,5238720707,sandhuharshil@example.net,2
+DL 94 5426,Honda,Swift,Red,2023,10-01-2023,23:02:13,8407069,15.15,1500,Petrol,Online,Karnataka,Mangalore,Finn Dugar,9.2E+11,bpatel@example.org,1
+KA 22 4248,Toyota,C-Class,White,2022,20-08-2022,16:11:10,13137805,23.15,3000,Petrol,Cash,Delhi,Dwarka,Geetika Chakraborty,6265436978,lbarman@example.com,1
+MH 84 9328,Hyundai,Corolla,Black,2025,10-12-2025,07:36:18,12494832,12.69,1500,Petrol,Online,Uttar Pradesh,Kanpur,Charita Jha,8422216370,ktoor@example.com,5
+UP 30 2941,Hyundai,Corolla,Green,2024,08-08-2024,13:25:01,3683894,16.58,1500,Diesel,Cash,Karnataka,Mysore,Niharika Vora,1782709822,desaiyagnesh@example.com,1
+UP 18 8840,BMW,i20,White,2022,15-01-2022,16:24:52,2635968,19.38,800,Electric,Online,Uttar Pradesh,Noida,Bakhshi Sethi,9.12E+11,ekaraj18@example.net,0
+UP 61 9301,Audi,X5,White,2026,31-01-2026,04:15:35,13813528,17.06,1500,Electric,Card,Uttar Pradesh,Noida,Fitan Bhatti,479793953,upadhritiranganathan@example.org,0
+DL 28 8316,Alto,X5,Silver,2024,07-07-2024,22:17:49,14071252,23.54,1800,Diesel,Card,Uttar Pradesh,Noida,Vansha Mahal,186747562,vpandey@example.net,3
+KA 86 7023,Alto,Swift,Blue,2024,29-02-2024,03:27:30,3432558,13.98,800,Petrol,Online,Maharashtra,Nashik,Barkha Chacko,9.1E+11,oanand@example.org,0
+MH 52 1543,BMW,i20,Grey,2024,20-05-2024,19:29:02,13126231,20.42,1800,Diesel,Finance,Karnataka,Hubli,Ayushman Wagle,8108220805,upadhritiroy@example.net,3
+KA 12 9550,BMW,X5,Black,2022,14-09-2022,10:28:37,3547341,18.24,2000,Petrol,Cash,Uttar Pradesh,Lucknow,Anmol Mody,1118632843,ghoshchandani@example.com,0
+MH 17 3948,Hyundai,Swift,Black,2024,15-10-2024,09:25:35,11036287,13.06,1800,Electric,Finance,Karnataka,Bangalore,Zaid Swamy,1589547276,keya73@example.net,5
+DL 27 9246,Audi,A4,Black,2021,27-04-2021,18:18:32,1959035,12.41,1500,CNG,Finance,Uttar Pradesh,Varanasi,Aadhya Oommen,117594965,daniel72@example.com,2
+KA 36 5029,Suzuki,800,Grey,2022,27-03-2022,07:11:05,3887806,20.01,2000,Diesel,Cash,Karnataka,Mangalore,Gavin Wagle,7321901708,demanbir@example.net,2
+MH 79 8488,Mercedes,X5,White,2023,10-08-2023,17:09:38,2968464,16.38,1500,CNG,Finance,Delhi,Dwarka,Neha Gaba,9074238610,yashica66@example.org,3
+KA 71 5380,Mercedes,City,White,2021,12-10-2021,10:40:10,8448827,13.64,2000,Electric,Cash,Uttar Pradesh,Lucknow,Harrison Kapadia,9.14E+11,mekhalasachdeva@example.org,3
+MH 18 3831,Hyundai,A4,Red,2021,02-07-2021,15:00:36,12033879,11.51,1800,CNG,Card,Delhi,New Delhi,Idika Rai,5747099467,vasatikadutt@example.com,2
+DL 83 8304,BMW,800,Red,2023,22-03-2023,18:35:14,3189795,15.85,3000,Electric,Finance,Karnataka,Mysore,Tara Pillay,6534446048,leelamitter@example.com,5
+KA 43 9075,BMW,X5,Blue,2023,03-02-2023,04:51:39,5756231,19.89,1800,Electric,Cash,Karnataka,Mysore,Vasudha Nigam,8182715833,tanvi25@example.com,0
+MH 13 1999,Honda,City,Green,2023,30-10-2023,12:46:58,12468068,20.8,800,CNG,Online,Uttar Pradesh,Noida,Andrew Koshy,9170837835,bratti@example.com,2
+DL 49 5142,BMW,i20,Grey,2025,21-02-2025,18:33:43,4655729,12.23,1200,Electric,Finance,Uttar Pradesh,Lucknow,Chakrika Dhillon,9.19E+11,rajatagoyal@example.net,2
+UP 40 2701,Suzuki,C-Class,Blue,2025,17-12-2025,02:09:29,4394996,21.52,1000,Diesel,Online,Uttar Pradesh,Kanpur,Maanas Narayanan,5119450920,reyansh32@example.net,1
+KA 31 3403,BMW,A4,Blue,2022,13-04-2022,21:18:35,9373384,19.65,1200,Petrol,Cash,Delhi,Dwarka,Adweta Bal,9.16E+11,zpillay@example.com,0
+KA 29 2337,Audi,C-Class,Silver,2025,09-02-2025,18:00:26,7532480,17.99,2000,Electric,Cash,Maharashtra,Nashik,Sara Barad,9.17E+11,champakbajaj@example.com,3
+UP 71 1014,Suzuki,C-Class,Red,2023,25-03-2023,23:01:36,4530910,17.12,800,Diesel,Online,Delhi,Rohini,Veda Sachdeva,7464725141,tmodi@example.com,1
+UP 18 2729,Suzuki,i20,Grey,2021,09-07-2021,22:20:20,8300873,22.33,2000,Petrol,Finance,Uttar Pradesh,Kanpur,Harini Sahni,4648115031,andrashivani@example.com,0
+DL 69 7194,BMW,X5,White,2024,21-07-2024,22:18:40,9724636,20.17,3000,Electric,Finance,Delhi,Dwarka,Eesha More,8538555692,devansh17@example.org,3
+UP 40 5829,BMW,Corolla,White,2023,15-04-2023,08:18:48,8058744,21.44,1000,Diesel,Finance,Uttar Pradesh,Varanasi,Forum Subramanian,5969547535,tarak63@example.com,5
+DL 67 4326,Hyundai,800,Green,2024,09-07-2024,17:14:10,2126574,24.3,800,Electric,Card,Uttar Pradesh,Lucknow,Baljiwan Pillay,1687086384,ubika57@example.net,0
+UP 71 1647,Mercedes,X5,White,2022,03-05-2022,22:30:32,3114622,21.82,1500,Petrol,Finance,Karnataka,Mangalore,Bhavini Nadkarni,9668275591,varkeysara@example.net,3
