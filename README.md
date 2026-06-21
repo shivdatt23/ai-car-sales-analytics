@@ -326,7 +326,7 @@ screenshots/dashboard.png
 ## CSV Upload
 
 ```markdown
-![CSV Upload](screenshots/csv-upload.png)
+![CSV Upload](./screenshots/csv-upload.png)
 ```
 
 ---
