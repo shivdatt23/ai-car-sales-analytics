@@ -313,46 +313,33 @@ Natural Language Response
 
 ## Dashboard
 
-```
-screenshots/dashboard.png
-```
-
-```markdown
 ![Dashboard](screenshots/dashboard.png)
-```
 
 ---
 
 ## CSV Upload
 
-```markdown
-![CSV Upload](./screenshots/csv-upload.png)
-```
+![CSV Upload](screenshots/csv-upload.png)
 
 ---
 
 ## Year-wise Analytics
 
-```markdown
 ![Yearly Analytics](screenshots/yearly-analytics.png)
-```
 
 ---
 
 ## Month-wise Analytics
 
-```markdown
 ![Monthly Analytics](screenshots/monthly-analytics.png)
-```
 
 ---
 
 ## AI Business Assistant
 
-```markdown
 ![AI Chat](screenshots/ai-assistant.png)
-```
 
+---
 ---
 
 # ⚙️ Installation
